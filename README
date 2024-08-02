@@ -1,0 +1,7 @@
+Name: Sujith Kumar Thankaraj
+B-Number: B01042991
+Status: Fully-Completed 
+Testcases:
+	Have tested the barrier function by manually creating 5 threads.
+Other:
+	Have tested for any memory leaks during the program execution using leaks(alternative of Valgrind) tool in mac OS.No memory leaks found.
